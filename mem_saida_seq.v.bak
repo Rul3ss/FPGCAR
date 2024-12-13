@@ -1,0 +1,19 @@
+module mem_saida_seq(     
+    input clk,    
+    input rst_n,
+    input [3:0] endereco,
+    output reg [7:0] dado_out,
+    input leitura
+    );
+    
+reg [7:0] memoria [0:38400-1];    
+
+
+always @ (posedge clk) begin
+    if(~rst_n) 
+        data_out <= 8'd0;
+    else if (leitura)
+        data_out <= memoria[endereco];
+end         
+
+endmodule

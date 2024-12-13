@@ -1,0 +1,3 @@
+Warning (10273): Verilog HDL warning at DE2_115_Default.v(512): extended using "x" or "z" File: C:/Users/lucas/Downloads/DE2_115_Default-20241213T114424Z-001/DE2_115_Default/DE2_115_Default.v Line: 512
+Warning (10273): Verilog HDL warning at DE2_115_Default.v(530): extended using "x" or "z" File: C:/Users/lucas/Downloads/DE2_115_Default-20241213T114424Z-001/DE2_115_Default/DE2_115_Default.v Line: 530
+Warning (10273): Verilog HDL warning at DE2_115_Default.v(531): extended using "x" or "z" File: C:/Users/lucas/Downloads/DE2_115_Default-20241213T114424Z-001/DE2_115_Default/DE2_115_Default.v Line: 531
