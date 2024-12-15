@@ -9,7 +9,7 @@ Honestly, it's not difficult to understand most of the things we did, but maybe 
 
 ![image](https://github.com/user-attachments/assets/af3fc6b6-c444-42a2-be1d-54af4799eebc)
 
-    [https://youtube.com/shorts/4WhgU0C3h7U](https://youtu.be/TnV5Sf91IcY)
+[https://youtube.com/shorts/4WhgU0C3h7U](https://youtu.be/TnV5Sf91IcY)
 
 Project carried out for the Digital Circuits course at the Federal University of Recôncavo da Bahia.
 The project was based on a template provided by the professor. Some elements could be removed to optimize the system for faster performance.
