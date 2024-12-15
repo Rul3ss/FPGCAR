@@ -20,4 +20,5 @@ However, these different ideas about the project have contributed to its success
 I'll share Luigi's contact information along with mine, feel free to reach out if you need any help.
 
 ldamascenocampos@gmail.com - luwigi
+
 lucaztroz@gmail.com - me
