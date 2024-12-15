@@ -9,4 +9,4 @@ Honestly, it's not difficult to understand most of the things we did, but maybe 
 
 ![image](https://github.com/user-attachments/assets/af3fc6b6-c444-42a2-be1d-54af4799eebc)
 
-https://youtube.com/shorts/4WhgU0C3h7U
+[https://youtube.com/shorts/4WhgU0C3h7U](https://youtu.be/TnV5Sf91IcY)
